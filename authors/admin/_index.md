@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студентка НБИбд-01-22
+role: Студентка НБИбд-02-22
 
 # Organizations/Affiliations to show in About widget
 organizations:
